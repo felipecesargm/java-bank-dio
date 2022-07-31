@@ -47,69 +47,6 @@ public class Main {
        contaFabricio.sacar(250);
 
        Conta.listarConta();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        //for (Cliente cliente : clientes ) {
-        //contas.add(new Corrente(cliente, false));
-
-       // }
-
-        //contas.get(1).depositar(1000);
-
-        //for(Conta conta : contas) {
-        //    conta.imprimirExtrato();
-       // }
-
-
-
-
-
-
-
-
-        //List<Conta> contas = new ArrayList<>() {{
-       //     add(new Corrente(felipe, false));
-        //    add(new Poupanca(felipe));
-       // }};
-
-        //for (Conta conta: contas ) {
-        //    conta.imprimirExtrato();
-        //}
-
-        //contaCorrente.imprimirExtrato();
-        //contaPoupanca.imprimirExtrato();
-
-        //System.out.println(felipe.getNome());
-        //System.out.println(felipe.getCpf());
-
-
-
-
-
     }
 }
 
